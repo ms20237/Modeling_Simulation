@@ -1,4 +1,4 @@
-# Modeling_Simulation
+# Modeling Simulation
 This repository contains modeling, simulation, and analysis projects developed as part of coursework and research activities in dynamic systems, control engineering, and computational modeling.
 
 ## Overview
@@ -6,7 +6,7 @@ The purpose of this repository is to provide implementations of mathematical mod
 
 ## :file_folder: Repository Structure
 ```bash
-Modeling_Simulation/
+Modeling Simulation/
 ├── Modeling_Sim_HW1/            
 ├── Modeling_Sim_HW2/          
 ├── Modeling_Sim_HW3/
